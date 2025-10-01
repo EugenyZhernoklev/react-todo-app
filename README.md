@@ -24,7 +24,7 @@ Simple React Todo App created for my Upwork portfolio. This project showcases en
 4. Start the app: `npm start`
 
 ## Live Demo
-Localhost:3000 (deploy on GitHub Pages for an online link if desired).
+Live demo: https://eugenyzhernoklev.github.io/react-todo-app
 
 ## Author
 Eugeny Zhernoklev | [Upwork Profile](https://www.upwork.com/freelancers/~yourprofileid) <!-- Replace with your Upwork URL when ready -->
